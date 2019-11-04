@@ -1,4 +1,6 @@
 # instaStoiner - Gain your popularity
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fractyfree%2FinstaStoiner.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fractyfree%2FinstaStoiner?ref=badge_shield)
+
 
 ### What is this?
 This script is just an implementation of popular way of gaining views/followers on your account. It just walks through users and watches their stories
@@ -32,3 +34,7 @@ Public functions definition:
 
 	def start(self)
 	"""Allows you to start the main script's alghoritm"""
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fractyfree%2FinstaStoiner.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fractyfree%2FinstaStoiner?ref=badge_large)
